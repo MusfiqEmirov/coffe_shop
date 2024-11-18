@@ -1,0 +1,21 @@
+
+{
+  "desertler": {
+    "balli tort": 6,
+    "gilemeyveli crep": 8,
+    "dietik desert": 12
+  },
+  "ickiler": {
+    "latte": 6.5,
+    "mohito": 7.3,
+    "milkshake": 9,
+    "cay": 2,
+    "qazli su": 3
+  },
+  "sandwich": {
+    "chickensandwich": 7,
+    "barbukysandwich": 6,
+    "sezarroll": 10,
+    "vegeteriansandwich": 13
+  }
+}
